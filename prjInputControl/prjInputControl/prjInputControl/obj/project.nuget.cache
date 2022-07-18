@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "efxYYNQVWw7kPtG0xYitdglQsD6kfPZzkTaQSRudG88kZMQ71soy+pLPQHTmofPeK9h+L7BLSpppMXjv1W+Vbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\prjInputControl\\prjInputControl\\prjInputControl\\prjInputControl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
